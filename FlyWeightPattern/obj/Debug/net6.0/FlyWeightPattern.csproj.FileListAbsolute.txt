@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.exe
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.deps.json
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.runtimeconfig.json
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.dll
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\net6.0\FlyWeightPattern.pdb
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.AssemblyInfo.cs
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.dll
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\refint\FlyWeightPattern.dll
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.pdb
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\FlyWeightPattern.genruntimeconfig.cache
+C:\Users\memme\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\net6.0\ref\FlyWeightPattern.dll
